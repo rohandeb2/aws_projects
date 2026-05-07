@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>404 — Page Not Found</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;800&display=swap" rel="stylesheet"/>
+  <style>
+    .error-page {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 2rem;
+    }
+    .error-code {
+      font-family: 'Syne', sans-serif;
+      font-size: clamp(6rem, 20vw, 12rem);
+      font-weight: 800;
+      line-height: 1;
+      -webkit-text-stroke: 2px #00ff88;
+      color: transparent;
+      margin-bottom: 1rem;
+    }
+    .error-msg {
+      font-size: 0.85rem;
+      color: #666;
+      margin-bottom: 2rem;
+      font-family: 'Space Mono', monospace;
+    }
+    .error-msg span {
+      color: #00ff88;
+    }
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+  <div class="error-page">
+    <div class="error-code">404</div>
+    <p class="error-msg">// this page does not exist on the <span>infrastructure</span></p>
+    <a class="btn-primary" href="/">← Back to Home</a>
+  </div>
+</body>
+</html>
