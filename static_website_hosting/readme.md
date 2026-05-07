@@ -10,7 +10,7 @@
 ## Architecture
 
 <div align="center">
-  <img src="Screenshot 2026-05-07 184653.png" >
+  <img src="img/Screenshot 2026-05-07 184653.png" >
 </div>
 
 
@@ -95,11 +95,11 @@ mysite/
 ---
 ## Proof:
 <div align="center">
-  <img src="Screenshot 2026-05-07 132036.png" >
+  <img src="img/Screenshot 2026-05-07 132036.png" >
 </div>
 
 <div align="center">
-  <img src="Screenshot 2026-05-07 184109.png" >
+  <img src="img/Screenshot 2026-05-07 184109.png" >
 </div>
 
 ---
