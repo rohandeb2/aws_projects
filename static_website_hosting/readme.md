@@ -236,7 +236,7 @@ To verify your nameserver change: https://www.whatsmydns.net/#NS/your_domain_nam
 - CloudFront cache invalidation (`/*`) is needed after every file update in S3
 
 ---
-## Proof:
+## Proof of Work:
 <div align="center">
   <img src="img/Screenshot 2026-05-07 132036.png" >
 </div>

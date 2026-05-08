@@ -102,14 +102,17 @@ The app server never accepts traffic from the internet. The bastion is the only 
 
 ---
 
-## Files
+## Proof of Work
 
-```
-project2/
-├── DEPLOYMENT_GUIDE.txt   ← Full click-by-click AWS steps
-└── README.md              ← This file
-```
-
+<div align="center">
+  <img src="Screenshot 2026-05-08 134731.png" >
+</div>
+<div align="center">
+  <img src="Screenshot 2026-05-08 134949.png" >
+</div>
+<div align="center">
+  <img src="Screenshot 2026-05-08 135147.png" >
+</div>
 ---
 
 ## Connect
