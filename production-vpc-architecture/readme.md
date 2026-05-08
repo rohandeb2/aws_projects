@@ -11,7 +11,7 @@
 ## Architecture
 
 <div align="center">
-  <img src="Screenshot 2026-05-07 184653.png" >
+  <img src="Screenshot 2026-05-08 160623.png" >
 </div>
 ---
 
@@ -113,7 +113,7 @@ The app server never accepts traffic from the internet. The bastion is the only 
 <div align="center">
   <img src="Screenshot 2026-05-08 135147.png" >
 </div>
----
+
 
 ## Connect
 
